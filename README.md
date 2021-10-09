@@ -23,6 +23,6 @@ Coefficient : -1.024
 ![image](https://user-images.githubusercontent.com/53411455/136670478-3cab6a51-027e-4a2e-ae22-e4b0745b2121.png)
 
 
-                                      Sgmoid plot fitting  two sets of data
+                                      Sigmoid plot fitting  two sets of data
 
 
