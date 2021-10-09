@@ -10,7 +10,8 @@ Logistic regression is a classification model that is very easy to implement but
 Trainind data on one feature only " mean radius"
 
 ![image](https://user-images.githubusercontent.com/53411455/136670393-8b028fca-eb7a-4a53-9b1d-b094da6c9cd2.png)
-Scatter plot using one feature " mean radius"
+
+                                   Scatter plot using one feature " mean radius"
 
 # Coefficent and intercept for lodistic regression model
 
@@ -21,6 +22,7 @@ Coefficient : -1.024
 
 ![image](https://user-images.githubusercontent.com/53411455/136670478-3cab6a51-027e-4a2e-ae22-e4b0745b2121.png)
 
-Sgmoid plot fitting  two sets of data
+
+                                      Sgmoid plot fitting  two sets of data
 
 
