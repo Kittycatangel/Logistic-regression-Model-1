@@ -7,5 +7,15 @@ Logistic regression is a classification model that is very easy to implement but
 
 # Logistic regrassion application on breast cancer data set
 
+
 ![image](https://user-images.githubusercontent.com/53411455/136670393-8b028fca-eb7a-4a53-9b1d-b094da6c9cd2.png)
-Scatter plot using one feature
+Scatter plot using one feature " mean radius"
+
+# Coefficent and intercept for lodistic regression model
+
+Intercept of 15.12
+Coefficient : -1.024
+
+# Sigmod plot
+
+
